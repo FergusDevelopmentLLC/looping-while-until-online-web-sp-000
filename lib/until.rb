@@ -4,3 +4,12 @@ def using_until
     
 end
 
+
+until var == 11 do
+  
+  # code to be executed 
+  puts var * 10
+  var = var + 1
+    
+# here loop ends 
+end
